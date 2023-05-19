@@ -10,6 +10,11 @@ ul {
   padding: 0;
 }
 
+a {
+  text-decoration: none;
+  color: #e5e7eb;
+}
+
 .main-container {
   display: flex;
   flex-direction: column;
@@ -48,7 +53,6 @@ ul {
 }
 
 .nav-links a {
-  text-decoration: none;
   color: #e5e7eb;
   font-size: 1.125rem;
 }
@@ -80,7 +84,6 @@ ul {
 
 .sign-up-btn {
   background-color: #3882f6;
-  color: #e5e7eb;
   font-size: 1.125rem;
   border: 0;
   padding: 0.5rem 2rem;
