@@ -133,3 +133,30 @@ ul {
   color: #1f2937;
   font-size: 1.125rem;
 }
+
+.testimonial {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #e5e7eb;
+}
+
+.testimonial-blockquote {
+  width: 799px;
+  margin-top: 8rem;
+  margin-bottom: 8rem;
+}
+
+.testimonial-text {
+  font-weight: 300;
+  font-size: 2.25rem;
+  font-style: italic;
+  color: #1f2937;
+}
+
+.testimonial-credit {
+  text-align: right;
+  font-weight: bold;
+  font-size: 1.25rem;
+  margin-right: 3rem;
+}
